@@ -2,11 +2,6 @@
     box-sizing: border-box;
   }
   
-  .nav {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-  }
   body {
     font-family: 'Joan', serif;
     font-size: 20px;
